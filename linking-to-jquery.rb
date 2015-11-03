@@ -1,3 +1,1 @@
-<script type="text/javascript"
-   src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.1.min.js">
-</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
