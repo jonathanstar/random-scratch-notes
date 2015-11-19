@@ -88,7 +88,11 @@ end
 
 SimpleCov.start
 
-# if you are using shouldaMatchers, create a file called spec/support/shoulda.rb with the following content:
+# if you are using shouldaMatchers, create a file called spec/support/shoulda.rb
+
+touch spec/support/shoulda.rb
+
+# Put the following content in spec/spport/shoulda.rb:
 
 Shoulda::Matchers.configure do |config|
   config.integrate do |with|
