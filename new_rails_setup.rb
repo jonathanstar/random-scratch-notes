@@ -74,8 +74,7 @@ RSpec.configure do |config|
 
 end
 
-require 'capybara/rails'
-# when you want test coverage you must add the following to spec/rails_helper
+# some testing options to add to spec/rails_helper
 
 #if you are using simplecov, add the following to spec/rails_helper.rb
 
