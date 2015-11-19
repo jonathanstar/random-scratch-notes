@@ -101,6 +101,9 @@ Shoulda::Matchers.configure do |config|
   end
 end
 
+git add .
+git commit -m "finish basic rails setup"
+
 #Create the repo on github. Don't add a .gitignore or license.
 
 git remote add origin https://github.com/your_organization/my_great_app.git
